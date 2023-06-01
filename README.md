@@ -3,4 +3,4 @@ This repository is the open source dataset for micro armature solder surface def
 
 Our paper is edtitled “Micro Armature Solder Surface Detection: An Adaptive Central Region Sample Selection Anchor Free Framework”. Now that the dataset is available, you can browse it by downloading the "/dataset/MASS-DET.zip" file from the repository.
 
-The MASS-Det dataset is strictly forbidden to be used for commercial purposes and should only be used for academic research.
+The MASS-DET dataset is strictly forbidden to be used for commercial purposes and should only be used for academic research.
